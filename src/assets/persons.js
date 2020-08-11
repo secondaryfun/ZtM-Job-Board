@@ -19,6 +19,22 @@ export const data = {
       },
     },
     {
+    id: uuidv4(),
+    name: "Christopher Birkenhagen",
+    img: "https://avatars2.githubusercontent.com/u/58237351?s=460&u=54aa004a052a6454b3940f2944e4df6495583bb5&v=4",
+    links: {
+      website: "https://secondaryfun.com",
+      linkedin: "https://www.linkedin.com/in/birkenhagen/",
+      github: "https://github.com/secondaryfun"
+    },
+    jobTitle: "Software Engineer",
+    location: {
+      city: "Washington DC",
+      state: "DC",
+      country: "United States"
+    },
+  }
+    {
       id: uuidv4(),
       name: "Daniel Shan Balico",
       img: "https://avatars2.githubusercontent.com/u/64184826?v=4",
